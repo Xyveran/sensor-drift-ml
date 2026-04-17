@@ -1,0 +1,5 @@
+/data/*.parquet
+/Dataset/*.dat
+/notebooks/*.ipynb_checkpoints
+.venv
+/Time-Series
